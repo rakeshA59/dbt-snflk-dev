@@ -1,0 +1,16 @@
+Admission_ID,Patient_ID,Hospital_ID,Admission_Date,Discharge_Date,Reason_for_Admission,Department,Physician_ID,Room_Number,Diagnosis_Code,Insurance_Claim_Amount,Mode_of_Admission,Discharge_Status,Length_of_Stay,Follow_Up_Date
+A001,P001,HOSP001,2023-01-10,2023-01-15,Appendicitis,Surgery,PH001,101,ICD001,1200,Emergency,Recovered,5,2023-01-22
+A002,P002,HOSP002,2023-02-20,2023-02-25,Pneumonia,Internal Medicine,PH002,102,ICD002,3000,Emergency,Recovered,5,2023-03-05
+A003,P003,HOSP003,2023-03-15,2023-03-18,Fractured Leg,Orthopedics,PH003,103,ICD003,2000,Elective,Recovered,3,2023-03-22
+A004,P004,HOSP004,2023-04-05,2023-04-12,Heart Attack,Cardiology,PH004,104,ICD004,8000,Emergency,Stable,7,2023-04-19
+A005,P005,HOSP005,2023-05-01,2023-05-10,Spinal Surgery,Orthopedics,PH005,105,ICD005,7000,Elective,Recovered,9,2023-05-17
+A006,P006,HOSP006,2023-06-05,2023-06-12,Kidney Stones,Urology,PH006,106,ICD006,2500,Emergency,Recovered,7,2023-06-19
+A007,P007,HOSP007,2023-07-01,2023-07-05,Cholecystectomy,Surgery,PH007,107,ICD007,3500,Emergency,Recovered,4,2023-07-12
+A008,P008,HOSP008,2023-08-10,2023-08-14,Appendectomy,Surgery,PH008,108,ICD008,1500,Elective,Recovered,4,2023-08-17
+A009,P009,HOSP009,2023-09-01,2023-09-10,Cancer Surgery,Oncology,PH009,109,ICD009,15000,Emergency,Stable,9,2023-09-17
+A010,P010,HOSP010,2023-10-01,2023-10-08,Chronic Obstructive Pulmonary Disease,Internal Medicine,PH010,110,ICD010,5000,Elective,Stable,7,2023-10-15
+A011,P011,HOSP011,2023-01-22,2023-01-29,Fracture Repair,Orthopedics,PH011,111,ICD011,4000,Elective,Recovered,7,2023-02-05
+A012,P012,HOSP012,2023-02-05,2023-02-10,Sinus Surgery,ENT,PH012,112,ICD012,1800,Elective,Recovered,5,2023-02-17
+A013,P013,HOSP013,2023-03-10,2023-03-15,Stroke,Neurology,PH013,113,ICD013,12000,Emergency,Stable,5,2023-03-20
+A014,P014,HOSP014,2023-04-20,2023-04-25,Knee Replacement,Surgery,PH014,114,ICD014,9000,Elective,Recovered,5,2023-05-02
+A015,P015,HOSP015,2023-05-15,2023-05-22,Lung Infection,Respiratory Medicine,PH015,115,ICD015,4500,Emergency,Recovered,7,2023-05-29

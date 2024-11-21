@@ -1,0 +1,16 @@
+Procedure_ID,Patient_ID,Procedure_Date,Procedure_Type,Procedure_Code,Physician_ID,Hospital_ID,Procedure_Cost,Anesthesia_Type,Duration_in_Minutes,Outcome,Complications,Post_Procedure_Instructions,Follow_Up_Date,Recovery_Status
+P001,P001,2023-01-10,Appendectomy,APX123,PH001,HOSP001,3500,General,45,Successful,None,Rest for 24 hours,2023-01-15,Recovered
+P002,P002,2023-02-20,Lung Biopsy,LUN234,PH002,HOSP002,5500,Local,60,Successful,Minor Bleeding,Follow-up in 1 week,2023-02-27,Recovered
+P003,P003,2023-03-15,Knee Replacement,KNE345,PH003,HOSP003,10000,General,120,Successful,Blood Clot,Physical Therapy,2023-03-22,Stable
+P004,P004,2023-04-05,Heart Bypass Surgery,HBS456,PH004,HOSP004,25000,General,180,Successful,Infection,Antibiotics for 7 days,2023-04-12,Stable
+P005,P005,2023-05-01,Spinal Fusion,SPF567,PH005,HOSP005,15000,General,150,Successful,No Complications,Avoid heavy lifting for 6 weeks,2023-05-10,Recovered
+P006,P006,2023-06-05,Cholecystectomy,CHL678,PH006,HOSP006,8000,General,90,Successful,Gas Pains,Low-fat diet for 2 weeks,2023-06-12,Recovered
+P007,P007,2023-07-01,Fracture Repair,FRP789,PH007,HOSP007,4000,Local,75,Successful,Swelling,Ice pack application,2023-07-05,Recovered
+P008,P008,2023-08-10,Appendectomy,APX123,PH008,HOSP008,3500,General,50,Successful,None,Rest for 24 hours,2023-08-15,Recovered
+P009,P009,2023-09-01,Cancer Surgery,CAN890,PH009,HOSP009,20000,General,240,Stable,Infection,Continue chemotherapy,2023-09-10,Stable
+P010,P010,2023-10-01,Sinus Surgery,SIN234,PH010,HOSP010,4000,Local,60,Successful,None,Follow-up in 1 week,2023-10-08,Recovered
+P011,P011,2023-01-22,Fracture Repair,FRP123,PH011,HOSP011,3500,Local,60,Successful,No Complications,Use crutches for 2 weeks,2023-02-05,Recovered
+P012,P012,2023-02-05,Angioplasty,ANG567,PH012,HOSP012,12000,Local,90,Successful,Bruising,Take aspirin as prescribed,2023-02-12,Recovered
+P013,P013,2023-03-10,Colonoscopy,COL678,PH013,HOSP013,2500,Local,30,Successful,No Complications,Resume normal activities,2023-03-15,Recovered
+P014,P014,2023-04-20,Eye Cataract Surgery,EYE789,PH014,HOSP014,6000,Local,45,Successful,Eye Irritation,Use prescribed eye drops,2023-04-27,Recovered
+P015,P015,2023-05-15,Hernia Repair,HNR890,PH015,HOSP015,7000,Local,75,Successful,No Complications,Avoid heavy lifting for 6 weeks,2023-05-22,Recovered
