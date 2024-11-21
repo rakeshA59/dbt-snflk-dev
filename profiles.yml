@@ -1,0 +1,17 @@
+analytics:
+  my_project:
+  target: default
+  outputs:
+    dev:
+      type: snowflake
+      account: <xc98878.us-east-2.aws>
+      user: rakesh59
+      password: Anjana$59
+      role: ACCOUNTADMIN
+      database: ANALYTICS
+      warehouse: TRANSFORMING
+      schema: dbt_rakesh59
+      threads: 6
+      client_session_keep_alive: True
+      query_tag: dbt
+      authenticator: externalbrowser
