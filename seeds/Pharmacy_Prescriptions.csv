@@ -1,0 +1,16 @@
+Prescription_ID,Patient_ID,Medication_Name,Medication_Code,Dosage,Frequency,Start_Date,End_Date,Prescribing_Physician_ID,Pharmacy_ID,Cost,Refill_Allowed,Refill_Count,Side_Effects,Status
+RX001,P001,Amoxicillin,AMO123,500mg,3 times a day,2023-01-10,2023-01-20,PH001,PHAR001,30,Yes,2,Nausea,Active
+RX002,P002,Ibuprofen,IBU234,200mg,Every 6 hours,2023-02-15,2023-02-25,PH002,PHAR002,20,Yes,1,Drowsiness,Active
+RX003,P003,Lisinopril,LIS345,10mg,Once a day,2023-03-01,2023-03-30,PH003,PHAR003,40,Yes,3,Dizziness,Active
+RX004,P004,Metformin,MET456,500mg,Twice a day,2023-04-10,2023-04-20,PH004,PHAR004,35,Yes,2,Stomach upset,Completed
+RX005,P005,Prednisone,PRED567,10mg,Once a day,2023-05-05,2023-05-15,PH005,PHAR005,60,No,0,Weight gain,Completed
+RX006,P006,Omeprazole,OME678,20mg,Once a day,2023-06-01,2023-06-10,PH006,PHAR006,50,Yes,2,Headache,Active
+RX007,P007,Simvastatin,SIM789,40mg,Once a day,2023-07-01,2023-07-15,PH007,PHAR007,45,Yes,3,Muscle pain,Active
+RX008,P008,Levothyroxine,LEV890,50mcg,Once a day,2023-08-05,2023-08-20,PH008,PHAR008,30,Yes,2,Palpitations,Completed
+RX009,P009,Amlodipine,AML901,5mg,Once a day,2023-09-01,2023-09-30,PH009,PHAR009,35,Yes,1,Swelling,Active
+RX010,P010,Albuterol,ALB123,90mcg,As needed,2023-10-01,2023-10-15,PH010,PHAR010,25,No,0,Shakiness,Completed
+RX011,P011,Hydrochlorothiazide,HCTZ234,25mg,Once a day,2023-11-01,2023-11-15,PH011,PHAR011,40,Yes,2,Low potassium,Active
+RX012,P012,Clopidogrel,CLO345,75mg,Once a day,2023-01-05,2023-02-05,PH012,PHAR012,50,Yes,3,Bleeding,Completed
+RX013,P013,Furosemide,FUR456,20mg,Once a day,2023-03-10,2023-03-20,PH013,PHAR013,45,No,0,Dizziness,Completed
+RX014,P014,Warfarin,WAR567,2mg,Once a day,2023-04-15,2023-05-15,PH014,PHAR014,80,Yes,1,Bleeding,Active
+RX015,P015,Fluoxetine,FLU678,20mg,Once a day,2023-05-10,2023-06-10,PH015,PHAR015,60,Yes,2,Insomnia,Completed
